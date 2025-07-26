@@ -33,4 +33,7 @@ This happened when the sources.list file pf my system was empty. This is cruicia
 For official documentation, visit <a heref="https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/">Kali Linux Sources</a>
 
 
-`#cybersecurity` `#linux` `#kalilinux` `#bugfix` `#APT` `#troubleshooting` `#ethicalhacking`
+### 🔖 Tags
+
+[`#cybersecurity`](https://github.com/topics/cybersecurity)  [`#linux`](https://github.com/topics/linux)  [`#kalilinux`](https://github.com/topics/kalilinux)[`#bugfix`](https://github.com/topics/bugfix)  [`#APT`](https://github.com/topics/apt)  [`#troubleshooting`](https://github.com/topics/troubleshooting)  [`#ethicalhacking`](https://github.com/topics/ethicalhacking)
+
